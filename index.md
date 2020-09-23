@@ -8,9 +8,9 @@ Nanjing University Xianlin Campus, 163 Xianlin Avenue, Qixia District, Nanjing, 
 
 ### Biography
 
-- 2020.9-Present: M.S. (without entrance examination), Department of Computer Science and Technology, Nanjing University, Nanjing, Jiangsu, China.
+- 2020.9-Present: M.E. (without entrance examination), Department of Computer Science and Technology, Nanjing University, Nanjing, Jiangsu, China.
 
-- 2016.9-2020.7: B.S.,  School of Computer, Northwestern Polytechnical University, Xi'an, Shaanxi, China.
+- 2016.9-2020.7: B.E.,  School of Computer, Northwestern Polytechnical University, Xi'an, Shaanxi, China.
 
 ### Research Interests
 
