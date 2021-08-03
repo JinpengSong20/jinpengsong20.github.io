@@ -14,4 +14,6 @@ Nanjing University Xianlin Campus, 163 Xianlin Avenue, Qixia District, Nanjing, 
 
 ### Research Interests
 
+- Mobile Computing 
+- Wireless Sensing
 
